@@ -1,0 +1,8 @@
+C:\Users\ph\OneDrive\เอกสาร\GitHub\LAB0005\pokemon\pokemon\obj\Debug\net6.0-windows\pokemon Battle.csproj.AssemblyReference.cache
+C:\Users\ph\OneDrive\เอกสาร\GitHub\LAB0005\pokemon\pokemon\obj\Debug\net6.0-windows\pokemon.Form1.resources
+C:\Users\ph\OneDrive\เอกสาร\GitHub\LAB0005\pokemon\pokemon\obj\Debug\net6.0-windows\pokemon_Battle.Properties.Resources.resources
+C:\Users\ph\OneDrive\เอกสาร\GitHub\LAB0005\pokemon\pokemon\obj\Debug\net6.0-windows\pokemon Battle.csproj.GenerateResource.cache
+C:\Users\ph\OneDrive\เอกสาร\GitHub\LAB0005\pokemon\pokemon\obj\Debug\net6.0-windows\pokemon Battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ph\OneDrive\เอกสาร\GitHub\LAB0005\pokemon\pokemon\obj\Debug\net6.0-windows\pokemon Battle.AssemblyInfoInputs.cache
+C:\Users\ph\OneDrive\เอกสาร\GitHub\LAB0005\pokemon\pokemon\obj\Debug\net6.0-windows\pokemon Battle.AssemblyInfo.cs
+C:\Users\ph\OneDrive\เอกสาร\GitHub\LAB0005\pokemon\pokemon\obj\Debug\net6.0-windows\pokemon Battle.csproj.CoreCompileInputs.cache
